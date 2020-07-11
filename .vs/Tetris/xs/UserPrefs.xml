@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Models/MiniCubeModel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Figure.cs" Line="13" Column="20" />
+      <File FileName="Assets/Scripts/MiniCube.cs" Line="5" Column="31" />
+      <File FileName="Assets/Scripts/Field.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Models/MiniCubeModel.cs" Line="8" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="MiniCubeModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c1f3ef8-e09b-4eeb-9072-872436d5db01" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
