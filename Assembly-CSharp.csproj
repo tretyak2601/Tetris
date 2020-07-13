@@ -63,11 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Field.cs" />
-    <Compile Include="Assets\Scripts\Figure.cs" />
-    <Compile Include="Assets\Scripts\InputController.cs" />
-    <Compile Include="Assets\Scripts\MiniCube.cs" />
+    <Compile Include="Assets\Scripts\Controllers\Field.cs" />
+    <Compile Include="Assets\Scripts\Controllers\Figure.cs" />
+    <Compile Include="Assets\Scripts\Controllers\InputController.cs" />
+    <Compile Include="Assets\Scripts\Controllers\MiniCube.cs" />
+    <Compile Include="Assets\Scripts\Enums\Direction.cs" />
+    <Compile Include="Assets\Scripts\Enums\FigureState.cs" />
+    <Compile Include="Assets\Scripts\Enums\GameState.cs" />
+    <Compile Include="Assets\Scripts\Models\FieldModel.cs" />
     <Compile Include="Assets\Scripts\Models\MiniCubeModel.cs" />
+    <Compile Include="Assets\Scripts\ReadOnlyPropertyDrawer.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

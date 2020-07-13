@@ -238,14 +238,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e3c1190291e640af823b9f2a270afda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _size: {x: 20, y: 20}
   _figuresPrefab:
   - {fileID: 604086397932360008, guid: bfa91df897a0840c49642f8d7ffa9d8a, type: 3}
   - {fileID: 7316025819707026636, guid: 7abf4fdb1c84d499eb0206ee65490941, type: 3}
   - {fileID: 958288347347387969, guid: fe09f95ed8f2246dfa02ce9efed552ce, type: 3}
-  _delay: 3
+  _delay: 1
   _cube: {fileID: 1300182826673635498, guid: 4f47113ba0a2941c98a836674c0bc3f0, type: 3}
   _loseUI: {fileID: 1261913456}
+  _model:
+    Delay: 0
+    Size: {x: 0, y: 0}
+    GameState: 0
+    CurrentFigure: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
